@@ -1,0 +1,15 @@
+.Card {
+ background-color: #ff8080;
+ position: relative;
+float: left;
+ width: 100px;
+ height: 100px;
+ margin: 2px;
+ border-bottom: 4px solid;
+ border-right: 4px solid;
+ border-left: 0.5px solid;
+ border-top: 0.5px solid;
+ border-color: white;
+}
+
+
