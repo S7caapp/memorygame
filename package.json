@@ -1,7 +1,6 @@
 {
   "name": "from-barcelona",
   "version": "0.0.1",
-  "private": true,
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.4.1"
