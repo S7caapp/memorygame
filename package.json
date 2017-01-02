@@ -10,7 +10,6 @@
     "react": "^15.2.1",
     "react-dom": "^15.2.1"
   },
-  "homepage": "https://S7caapp.github.io/memorygame”,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
