@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
+    "gh-pages": "^0.12.0",
     "react-scripts": "0.4.1"
   },
   "dependencies": {
@@ -17,5 +18,14 @@
   },
   "eslintConfig": {
     "extends": "./node_modules/react-scripts/config/eslint.js"
-  }
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/S7caapp/memorygame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/S7caapp/memorygame"
+  },
+  "homepage": "https://github.com/S7caapp/memorygame"
 }
