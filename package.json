@@ -1,6 +1,7 @@
 {
   "name": "frombarcelona",
   "version": "0.0.1",
+  "main" : "index.js",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.4.1"
